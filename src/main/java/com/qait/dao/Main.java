@@ -8,7 +8,7 @@ public class Main {
 		 Connection con = driver.getDatabaseConnection();
 		 
 		 Operation operate = new Operation(con);
-		System.out.println(operate.readCommentByUser("dharmendragupta@qainfotech.com"));
+		//System.out.println(operate.readCommentByUser("dharmendragupta@qainfotech.com"));
 		
 		 
 	}
