@@ -10,7 +10,7 @@
     - created classes like
         * Driver (for connection
         * Operation(that contain methods for signup, addComment, readCommentTable, getPassword, readCommentByUser)
-        * Main (to test the above classes by main function)
+        * Main (to validate the methods of above classes by main function)
         
 ## Webservice
     - created classes such as
