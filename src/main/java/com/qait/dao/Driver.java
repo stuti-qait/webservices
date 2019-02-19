@@ -5,7 +5,7 @@ import java.sql.*;
 public class Driver {
 	// JDBC driver name and database URL
 	static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
-	static final String DB_URL = "jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12278221";
+	static final String DB_URL = "jdbc:mysql://db4free.net:3306/sql12278221";
 	
 //  Database credentials
    static final String USER = "sql12278221";
